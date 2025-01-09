@@ -1,0 +1,16 @@
+body {
+	background-color: #172121;
+	color:#BFACB5;
+	font-family: monospace;
+}
+
+.container {
+	background-color:#444554;
+	color:#E5D0CC;
+	margin-top: 50px;
+	font-family: monospace;
+}
+
+img {
+	width: 150px;
+}
